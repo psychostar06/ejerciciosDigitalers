@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'Geneva';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/fonts/16736_Geneva_0.ttf') format('TrueType');
+    
+}
+
+#logo {text-align: center;}
+
+
+h1 {
+    font-family: 'Lucida Sans Unicode', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Geneva', Verdana, sans-serif;
+    color: #B95EB0;
+    text-align: center;
+    letter-spacing: 15px;
+    font-weight: 500;
+    font-size: 50px;
+}
+
+h2 {
+    color: #B95EB0;
+    letter-spacing: 10px;
+    font-family: 'Lucida Sans Unicode' 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Geneva', Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+p {
+    font-family: 'Lucida Sans Unicode', sans-serif;
+    color: #4B88C0;
+    font-size: 16px;
+}
+
+.hotel1 img {
+    width: 500px;
+    height: auto;
+    float: right;
+    margin-left: 10px;
+}
+
+.hotel2 img {
+    width: 500px;
+    float:left;
+    margin-right: 10px;
+}
+
+.hotel3 img {
+    width: 500px;
+    float: right;
+    margin-left: 10px;
+}
+
+
+#imgmym {
+    width: 100%;
+}

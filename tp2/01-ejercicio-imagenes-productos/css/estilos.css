@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'Charcoal';
+    font-style: normal;
+    src: 
+        url('/fonts/Charcoal.otf') format('OpenType');
+
+}
+
+@font-face {
+    font-family: 'Gadget';
+    font-style: normal;
+    src: 
+    url('/fonts/gadget.ttf') format('TrueType');
+}
+
+* {
+    background-color: #273238;
+    box-sizing: border-box;
+}
+
+
+h1 {
+    background-color: #F0F0F0;
+    color: #688492;
+    text-align: center;
+    font-family: Impact, 'Charcoal', sans-serif;
+    font-size: 70px;
+}
+
+h2 {
+    font-family: Arial, 'Gadget', sans-serif;
+    font-variant: small-caps;
+    font-style: oblique;
+    font-weight: 900;
+    font-size: 30px;
+    
+}
+
+p {
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    font-size: 21px;
+    color: #D8DAD6;
+    text-align: justify;
+}
+
+img {
+    margin-left: 50px;
+    border: 5px solid;
+    width: 500px;
+}
+
+.aspiradoras {
+    color: #E6CBBF;
+}
+
+.celulares {
+    color: #A1C1CB;
+}
+
+.consolas {
+    color: #BCBDBF;
+}
+
+.home-theaters{
+    color: #8D94A1;
+}
+
+.televisores {
+    color: #B2B2AA;
+}
